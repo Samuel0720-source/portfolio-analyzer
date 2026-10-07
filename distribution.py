@@ -44,3 +44,4 @@ if kurtosis > 1:
     print("Fat tails: more extreme events than normal distribution")
 else:
     print("Normal-like tails: similar to normal distribution")
+
